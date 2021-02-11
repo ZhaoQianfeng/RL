@@ -2,6 +2,8 @@
 
 ## Cross Entropy Method for RL
 *how to use:*
-`cd CEM
+
+```
+cd CEM
 python test.py CartPole-v0
-`
+```
