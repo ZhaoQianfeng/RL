@@ -33,7 +33,7 @@ for update in range(N_UPDATE):
 agent = top_model
 
 # Test the agent
-if __name__ == '__main__'
+if __name__ == '__main__':
     N_EPISODE = 50
     N_STEP = 5000
     for _ in range(N_EPISODE):
